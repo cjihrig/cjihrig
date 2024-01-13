@@ -2,7 +2,7 @@ Hello :wave:
 
 My name is Colin Ihrig, and I am a software engineer based out of Pittsburgh, PA in the United States. I have worked for small startups with a handful of employees as well as large enterprises such as Samsung, Walmart, and Amazon.
 
-## Current and past open source projects
+## Past open source projects
 
 I have been developing open source software since 2013. I have created or contributed to many [projects](https://github.com/cjihrig?tab=repositories) since then. Here are some of the highlights:
 
