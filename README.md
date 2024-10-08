@@ -10,7 +10,8 @@ I have been developing open source software since 2013. I have created or contri
 
 [Node.js](https://nodejs.org/) is a popular cross-platform JavaScript runtime. I began contributing to [Node.js](https://github.com/nodejs/node) in 2014, and joined its [Technical Steering Committee](https://github.com/nodejs/tsc) in early 2015. Some of my past contributions include:
 
-- Initial author of Node's [test runner](https://nodejs.org/api/test.html). This includes the `node:test` core module, the CLI runner, mocking, and code coverage.
+- Initial author of Node's [test runner](https://nodejs.org/api/test.html). This includes the `node:test` core module, the CLI runner, mocking, snapshot testing, and code coverage.
+- Initial author of Node's [SQLite](https://nodejs.org/api/sqlite.html) integration.
 - Initial author of Node's [WebAssembly System Interface](https://nodejs.org/api/wasi.html) (WASI) integration.
 - Significant contributions to the [`child_process`](https://nodejs.org/api/child_process.html), [`cluster`](https://nodejs.org/api/cluster.html), [`dns`](https://nodejs.org/api/dns.html), [`fs`](https://nodejs.org/api/fs.html), [`os`](https://nodejs.org/api/os.html), and [`report`](https://nodejs.org/api/report.html) modules.
 - Initial author of the [`lts`](https://www.npmjs.com/package/lts) module used to generate the Node.js long term support (LTS) schedule [graphic](https://github.com/nodejs/Release/blob/main/schedule.svg).
