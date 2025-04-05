@@ -41,6 +41,12 @@ gRPC is a cross-platform, cross-language Remote Procedure Call (RPC) framework. 
 
 I created [grpc-server-js](https://github.com/cjihrig/grpc-server-js), the first pure JavaScript gRPC server implementation that I am aware of. I also rewrote the server in TypeScript and upstreamed it to the official [gRPC](https://github.com/grpc/grpc-node) project. I have also [spoken about gRPC](https://www.youtube.com/watch?v=fl9AZieRUaw) at several conferences, including gRPConf.
 
+### Kubernetes
+
+Kubernetes is a popular container orchestration system. I have been a maintainer of the [official Kubernetes client for Node.js](https://github.com/kubernetes-client/javascript) since 2024.
+
+I also created [Kubenode](https://github.com/cjihrig/kubenode), a Node.js implementation of the popular [Kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) and [controller-runtime](https://github.com/kubernetes-sigs/controller-runtime) tools from the Kubernetes Golang community.
+
 ### hapi
 
 [hapi.js](https://hapi.dev/) is a Node.js web framework that originally gained fame at Walmart for successfully [handling Black Friday traffic](https://www.infoworld.com/article/2608897/walmart-s-investment-in-open-source-isn-t-cheap.html).
