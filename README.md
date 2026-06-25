@@ -1,4 +1,3 @@
-<!--
 Hello :wave:
 
 My name is Colin Ihrig, and I am a software engineer based out of Pittsburgh, PA in the United States. I have worked for small startups with a handful of employees as well as large enterprises such as Samsung, Walmart, and Amazon.
@@ -53,4 +52,3 @@ I also created [Kubenode](https://github.com/cjihrig/kubenode), a Node.js implem
 [hapi.js](https://hapi.dev/) is a Node.js web framework that originally gained fame at Walmart for successfully [handling Black Friday traffic](https://www.infoworld.com/article/2608897/walmart-s-investment-in-open-source-isn-t-cheap.html).
 
 I have been involved in the hapi ecosystem in various capacities as a contributor, maintainer, and [Technical Steering Committee](https://github.com/hapijs/hapi#technical-steering-committee-tsc-members) member since 2014.
--->
